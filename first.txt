@@ -1,2 +1,7 @@
 Gitの練習
 基本操作を学ぶ
+
+git add [ファイル名]
+git add .
+
+git commit
